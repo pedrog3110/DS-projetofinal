@@ -1,0 +1,8 @@
+# Ignora a pasta node_modules onde ficam dependências do Node.js
+node_modules/
+
+# Ignora o arquivo .env que contém informações sensíveis
+.env
+
+# Ignora arquivos de log gerados durante a execução da aplicação
+*.log
